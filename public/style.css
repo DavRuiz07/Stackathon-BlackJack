@@ -2,9 +2,3 @@ body {
   font-family: sans-serif;
   background-color: rgba(34, 30, 30, 0.808)
 }
-
-.test{
-  height: fit-content;
-  width: fit-content;
-  background-color: orange;
-}
